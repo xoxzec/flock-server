@@ -1,0 +1,1 @@
+To set this up, first clone the repo, then run npm init -y in flock-server folder, then npm install ws. then run node server.js; now the server is running on ws://localhost:3000; i used cloudflared.exe to hide the real server ip
